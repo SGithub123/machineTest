@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D22E2829-B33E-476B-9EFE-EB17280B82CD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "352E5461-18BA-4334-98EB-6452D26EDC89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "responseDataUsingURL(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0802A502-BE85-4CB5-A3D3-9EDEE48F97C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "responseDataUsingURL(response:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0802A502-BE85-4CB5-A3D3-9EDEE48F97C9 - 755dbc26cf0036a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_match_tournament.MatchDetailsVC.responseDataUsingURL(response: Assignment_match_tournament.MatchDetailsModel) -&gt; ()"
+                  moduleName = "Assignment_match_tournament"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanket/Documents/MyProjs/Assignment_match_tournament/Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "399">
+               </Location>
+               <Location
+                  uuid = "0802A502-BE85-4CB5-A3D3-9EDEE48F97C9 - db172a6fac54ad3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Assignment_match_tournament.MatchDetailsVC.responseDataUsingURL(response: Assignment_match_tournament.MatchDetailsModel) -&gt; ()"
+                  moduleName = "Assignment_match_tournament"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanket/Documents/MyProjs/Assignment_match_tournament/Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  uuid = "0802A502-BE85-4CB5-A3D3-9EDEE48F97C9 - 755dbc26cf00090a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_match_tournament.MatchDetailsVC.responseDataUsingURL(response: Assignment_match_tournament.MatchDetailsModel) -&gt; ()"
+                  moduleName = "Assignment_match_tournament"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanket/Documents/MyProjs/Assignment_match_tournament/Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "0802A502-BE85-4CB5-A3D3-9EDEE48F97C9 - db172a6fac54929c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Assignment_match_tournament.MatchDetailsVC.responseDataUsingURL(response: Assignment_match_tournament.MatchDetailsModel) -&gt; ()"
+                  moduleName = "Assignment_match_tournament"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanket/Documents/MyProjs/Assignment_match_tournament/Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D137D5A-7441-44AA-8ACB-BD6CAA086505"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "APICall(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BD2E1D7-0E47-4865-B94D-666956744F5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_match_tournament/View/MatchDetails/MatchDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "APICall(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
